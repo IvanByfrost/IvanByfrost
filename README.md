@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy Iván Ruiz  
 
-<!--
-**IvanByfrost/IvanByfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Proyectos principales  
 
-Here are some ideas to get you started:
+#### 🌉 Byfrost  
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)  
+![Java](https://img.shields.io/badge/Java-SpringBoot-green?logo=springboot)  
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sistema de Gestión Educativa modular basado en arquitectura **Hexagonal + MVC**, con módulos inspirados en la mitología nórdica.  
+- **Módulos:** Heimdall (auth), Sif (usuarios), Thor (actividades), Frigg (reportes), Bragi (docentes), Forseti (instituciones), Odín (IA).  
+- **Objetivo:** Plataforma inclusiva y tecnológica para instituciones educativas.  
+
+---
+
+#### ✈️ TouristChain  
+![React](https://img.shields.io/badge/React-TS-blue?logo=react)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss)  
+![APIs](https://img.shields.io/badge/APIs-Integration-yellow?logo=swagger)  
+
+Plataforma de turismo inteligente con enfoque en **experiencia de usuario y transparencia**.  
+- **Features:** Buscador de destinos, itinerarios dinámicos, integración con mapas y pasarelas de pago.  
+- **Objetivo:** Conectar viajeros con experiencias auténticas y confiables.  
+
+---
+
+### 🛠️ Conocimientos  
+
+![Java](https://img.shields.io/badge/Java-Expert-orange?logo=openjdk)  
+![React](https://img.shields.io/badge/React-Advanced-blue?logo=react)  
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
+![Docker](https://img.shields.io/badge/Docker-Pro-blue?logo=docker)  
+
+---
+
+### 📊 Stats & Contacto  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanByfrost&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanByfrost&layout=compact&theme=radical)  
+
+📫 Conecta conmigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivandarioruizvelasquez-devdesign/?locale=en_US)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:tuemail@ejemplo.com)  
