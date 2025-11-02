@@ -42,4 +42,4 @@ Plataforma de turismo inteligente con enfoque en **experiencia de usuario y tran
 
 📫 Conecta conmigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivandarioruizvelasquez-devdesign/?locale=en_US)  
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:tuemail@ejemplo.com)  
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:idruizv@gmail.com)  
