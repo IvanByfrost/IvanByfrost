@@ -3,7 +3,6 @@
 ### 🚀 Proyectos principales  
 
 #### 🌉 Byfrost  
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)  
 ![Java](https://img.shields.io/badge/Java-SpringBoot-green?logo=springboot)  
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
