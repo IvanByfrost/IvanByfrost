@@ -6,14 +6,16 @@ Desarrollador Full Stack enfocado en **React, Java y PHP**, implementando proyec
 
 ### 🚀 Proyectos principales  
 
-#### 🌉 [Byfrost](https://github.com/IvanByfrost/byfrost-oficial)  
-![Java](https://img.shields.io/badge/Java-SpringBoot-green?logo=springboot)  
-![React](https://img.shields.io/badge/React-18-blue?logo=react)  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
-![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)  
+#### 🌉 [Byfrost](https://github.com/IvanByfrost/byfrostmvp)  
+![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?logo=springboot)  
+![React](https://img.shields.io/badge/React-19-blue?logo=react)  
+![Python](https://img.shields.io/badge/Python-FastAPI-yellow?logo=python)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)  
+![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis)  
 
-Sistema de Gestión Educativa modular basado en arquitectura **Hexagonal + MVC**, con módulos inspirados en la mitología nórdica.  
-- **Módulos:** Heimdall (auth), Sif (usuarios), Thor (actividades), Frigg (reportes), Bragi (docentes), Forseti (instituciones), Odín (IA).  
+Plataforma SaaS EdTech de última generación para instituciones escolares, con arquitectura **multi-tenant**, alta seguridad por diseño y asistencia de **IA en tiempo real**, organizada bajo una metáfora de mitología nórdica.  
+- **Módulos:** Heimdall (auth), Forseti (gobernanza multi-tenant), Mimir (core académico), Hermod (notificaciones y CRM), Idunn (suscripciones SaaS), Sigrun (inclusión escolar / PIAR), Odin (IA de audio y voz).  
 - **Objetivo:** Plataforma inclusiva y tecnológica para instituciones educativas.  
 
 ---
