@@ -1,8 +1,12 @@
 # 👋 Hola, soy Iván Ruiz  
 
+Desarrollador Full Stack enfocado en **React, Java y PHP**, implementando proyectos escalables con arquitectura de microservicios.
+
+![Profile Views](https://komarev.com/ghpvc/?username=IvanByfrost&color=blue&style=flat)
+
 ### 🚀 Proyectos principales  
 
-#### 🌉 Byfrost  
+#### 🌉 [Byfrost](https://github.com/IvanByfrost/byfrost-oficial)  
 ![Java](https://img.shields.io/badge/Java-SpringBoot-green?logo=springboot)  
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
@@ -14,7 +18,7 @@ Sistema de Gestión Educativa modular basado en arquitectura **Hexagonal + MVC**
 
 ---
 
-#### ✈️ TouristChain  
+#### ✈️ [TouristChain](https://github.com/IvanByfrost/touristchain)  
 ![React](https://img.shields.io/badge/React-TS-blue?logo=react)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwindcss)  
 ![APIs](https://img.shields.io/badge/APIs-Integration-yellow?logo=swagger)  
@@ -38,6 +42,7 @@ Plataforma de turismo inteligente con enfoque en **experiencia de usuario y tran
 ### 📊 Stats & Contacto  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanByfrost&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanByfrost&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanByfrost&theme=radical)  
 
 📫 Conecta conmigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivandarioruizvelasquez-devdesign/?locale=en_US)  
