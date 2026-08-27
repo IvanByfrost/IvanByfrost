@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván Ruiz  
 
-Construyo plataformas SaaS escalables que resuelven problemas reales — desde educación inclusiva con IA hasta experiencias de viaje transparentes. Full Stack en **Java/Spring Boot, React, Python y PHP**, con arquitecturas multi-tenant y microservicios.
+Construyo software que importa: IA e inclusión real en el aula con Byfrost, transparencia para viajeros con TouristChain. Full Stack sin fronteras — **Java/Spring Boot, React, Python y PHP** — con arquitecturas multi-tenant que escalan sin drama.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IvanByfrost&color=blue&style=flat)
 
