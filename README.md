@@ -34,9 +34,13 @@ Plataforma de turismo inteligente con enfoque en **experiencia de usuario y tran
 ### 🛠️ Conocimientos  
 
 ![Java](https://img.shields.io/badge/Java-Expert-orange?logo=openjdk)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Advanced-brightgreen?logo=springboot)  
 ![React](https://img.shields.io/badge/React-Advanced-blue?logo=react)  
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?logo=typescript)  
+![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Pro-blue?logo=postgresql)  
+![Redis](https://img.shields.io/badge/Redis-Advanced-red?logo=redis)  
+![PHP](https://img.shields.io/badge/PHP-Pro-blue?logo=php)  
 ![Docker](https://img.shields.io/badge/Docker-Pro-blue?logo=docker)  
 
 ---
