@@ -52,5 +52,5 @@ Plataforma de turismo inteligente con enfoque en **experiencia de usuario y tran
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanByfrost&theme=radical)  
 
 📫 Conecta conmigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivandarioruizvelasquez-devdesign/?locale=en_US)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivanruiz-edtech/)  
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:idruizv@gmail.com)  
