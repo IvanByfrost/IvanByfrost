@@ -6,7 +6,7 @@ Desarrollador Full Stack enfocado en **React, Java y PHP**, implementando proyec
 
 ### 🚀 Proyectos principales  
 
-#### 🌉 [Byfrost](https://github.com/IvanByfrost/byfrostmvp)  
+#### 🌉 [Byfrost](https://github.com/IvanByfrost/byfrost-showcase)  
 ![Java](https://img.shields.io/badge/Java-21-orange?logo=openjdk)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?logo=springboot)  
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)  
