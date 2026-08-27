@@ -1,6 +1,13 @@
 # 👋 Hola, soy Iván Ruiz  
 
-No me conformo con que funcione: construyo el software que las instituciones educativas necesitan y nadie más está construyendo. Byfrost lleva IA e inclusión real a las aulas; TouristChain hace transparente lo que el turismo esconde — plataformas SaaS multi-tenant que escalan sin reescribirse. **Java/Spring Boot · React · Python · PHP**.
+No me conformo con que el software funcione. Construyo productos que resuelven problemas que las instituciones todavía no saben cómo resolver.
+
+- **Byfrost**: SaaS educativo con IA e inclusión real para transformar la experiencia en el aula.
+- **TouristChain**: tecnología para hacer más transparente y trazable lo que el turismo tradicionalmente esconde.
+
+Diseño plataformas **SaaS multi-tenant** pensadas para crecer sin tener que reescribirse desde cero.
+
+**Java/Spring Boot · React · Python · PHP**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IvanByfrost&color=blue&style=flat)
 
