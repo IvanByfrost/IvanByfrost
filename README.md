@@ -1,6 +1,13 @@
 # 👋 Hola, soy Iván Ruiz  
 
-Desarrollador Full Stack enfocado en **React, Java y PHP**, implementando proyectos escalables con arquitectura de microservicios.
+No me conformo con que el software funcione. Construyo productos que resuelven problemas que las instituciones todavía no saben cómo resolver.
+
+- **Byfrost**: SaaS educativo con IA e inclusión real para transformar la experiencia en el aula.
+- **TouristChain**: tecnología para hacer más transparente y trazable lo que el turismo tradicionalmente esconde.
+
+Diseño plataformas **SaaS multi-tenant** pensadas para crecer sin tener que reescribirse desde cero.
+
+**Java/Spring Boot · React · Python · PHP**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IvanByfrost&color=blue&style=flat)
 
@@ -52,5 +59,5 @@ Plataforma de turismo inteligente con enfoque en **experiencia de usuario y tran
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanByfrost&theme=radical)  
 
 📫 Conecta conmigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivandarioruizvelasquez-devdesign/?locale=en_US)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Ruiz-blue?logo=linkedin)](https://www.linkedin.com/in/ivanruiz-edtech/)  
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:idruizv@gmail.com)  
