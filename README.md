@@ -1,6 +1,6 @@
 # 👋 Hola, soy Iván Ruiz  
 
-Desarrollador Full Stack enfocado en **React, Java y PHP**, implementando proyectos escalables con arquitectura de microservicios.
+Construyo plataformas SaaS escalables que resuelven problemas reales — desde educación inclusiva con IA hasta experiencias de viaje transparentes. Full Stack en **Java/Spring Boot, React, Python y PHP**, con arquitecturas multi-tenant y microservicios.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IvanByfrost&color=blue&style=flat)
 
