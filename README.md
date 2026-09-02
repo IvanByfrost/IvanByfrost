@@ -22,7 +22,7 @@ Diseño plataformas **SaaS multi-tenant** pensadas para crecer sin tener que ree
 ![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis)  
 
 Plataforma SaaS EdTech de última generación para instituciones escolares, con arquitectura **multi-tenant**, alta seguridad por diseño y asistencia de **IA en tiempo real**, organizada bajo una metáfora de mitología nórdica.  
-- **Módulos:** Heimdall (auth), Forseti (gobernanza multi-tenant), Mimir (core académico), Hermod (notificaciones y CRM), Idunn (suscripciones SaaS), Sigrun (inclusión escolar / PIAR), Odin (IA de audio y voz).  
+- **Módulos:** Heimdall (auth), Forseti (gobernanza multi-tenant), Mimir (core académico), Hermod (notificaciones y CRM), Idunn (suscripciones SaaS), Sigrun (inclusión escolar / PIAR), Odin (IA de audio y voz), Huginn (subtitulado en tiempo real para estudiantes sordos).  
 - **Objetivo:** Plataforma inclusiva y tecnológica para instituciones educativas.  
 
 ---
